@@ -1,0 +1,5 @@
+{
+  "name": "SoapASMR Prompt Gen",
+  "description": "Automate your ASMR soap crushing workflow. Upload a competitor screenshot, and this app generates a Tone Block and updates your Master Prompt automatically using Gemini AI.",
+  "requestFramePermissions": []
+}
